@@ -14,7 +14,14 @@
   <img align="center" alt="Taci-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Taci-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Taci-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95450101/166295821-75853046-49bb-4e90-82f3-9eadfd0908fa.gif">
+  </div>
   
-![Snake animation](https://github.com/TaciAlves/tacialves/blob/output/github-contribution-grid-snake.svg)
+  ##
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/taciara-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+  ![Snake animation](https://github.com/TaciAlves/tacialves/blob/output/github-contribution-grid-snake.svg)
  
