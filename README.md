@@ -1,6 +1,6 @@
 ### Olá, eu sou a Taciara 👋
 
-- 🌱 I’m currently learning Java e PHP
+- 🌱 I’m currently learning React, Angular and Vue.js
 
 <div align="center">
   <a href="https://github.com/TaciAlves">
